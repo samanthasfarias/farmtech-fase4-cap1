@@ -84,7 +84,7 @@ O navegador abrirá automaticamente em `http://localhost:8501`.
 
 ## 📎 Links
 
-- **Repositório:** [Acesse o link do repositório]https://github.com/samanthasfarias/farmtech-fase4-cap1.git
+- **Repositório:** [Acesse o link do repositório](https://github.com/samanthasfarias/farmtech-fase4-cap1.git)
 - **Vídeo demonstrativo (YouTube):** [Acesse o link da apresentação - Youtube] XXXXX
 
 
